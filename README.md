@@ -17,3 +17,6 @@ This project features a compact, high-efficiency **synchronous buck converter** 
 - Inductor: 6.8μH recommended for 5V output at 3A load
 - Input and output capacitors selected per datasheet recommendations for stability and performance
 
+
+![image](https://github.com/user-attachments/assets/6e5b329c-6ff1-49e6-8ee4-9399298974b8)
+
