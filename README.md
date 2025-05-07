@@ -19,4 +19,6 @@ This project features a compact, high-efficiency **synchronous buck converter** 
 
 
 ![image](https://github.com/user-attachments/assets/6e5b329c-6ff1-49e6-8ee4-9399298974b8)
+![image](https://github.com/user-attachments/assets/12b99208-4585-47a6-b423-d97d817fbcd2)
+![image](https://github.com/user-attachments/assets/855ea13a-ec2f-4a40-aec9-7981512c71a9)
 
